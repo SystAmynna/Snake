@@ -2,7 +2,7 @@
 Simple game: snake
 
 ## **Controls**
-*Z Q S D* or *?? ?? ?? ??* for move  
+*Z Q S D* or *⬆️ ➡️ ⬇️ ⬅️* for move  
 *R* for reset the game  
 *SPACE* to pause the game  
 *ESC* (keep pressed) to quit the game
